@@ -1,0 +1,21 @@
+.container {
+  max-width: 970px !important;
+}
+.demo-headline {
+  padding: 73px 0 110px;
+  text-align: center;
+}
+.demo-logo {
+  font: 900 90px/100px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  letter-spacing: -2px;
+  margin: 10px 0;
+}
+.demo-logo .logo {
+  background: url(../img/logo-mask.png) center 0 no-repeat;
+  background-size: 496px 281px;
+  height: 281px;
+  margin: 0 auto 26px;
+  overflow: hidden;
+  text-indent: -9999em;
+  width: 496px;
+}

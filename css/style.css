@@ -1,0 +1,47 @@
+﻿.container {
+  max-width: 970px !important;
+}
+.demo-headline {
+  padding: 73px 0 110px;
+  text-align: center;
+}
+.demo-logo {
+  font: 900 90px/100px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  letter-spacing: -2px;
+  margin: 10px 0;
+}
+.demo-logo .logo {
+  background: url(../img/logo-mask.png) center 0 no-repeat;
+  background-size: 496px 281px;
+  height: 281px;
+  margin: 0 auto 26px;
+  overflow: hidden;
+  text-indent: -9999em;
+  width: 496px;
+}
+.demo-logo small {
+  color: rgba(52, 73, 94, 0.30000000000000004);
+  display: block;
+  font-size: 22px;
+  font-weight: 700;
+  letter-spacing: 0;
+  padding-top: 5px;
+}
+
+.login {
+  background: url(../img/imac.png) 0 0 no-repeat;
+  background-size: 940px 778px;
+  color: #ffffff;
+  margin-bottom: 77px;
+  padding: 38px 38px 267px;
+  position: relative;
+}
+.login-screen {
+  
+  min-height: 473px;
+  padding: 123px 199px 33px 306px;
+}
+.row {
+  margin-right: -15px;
+  margin-left: -15px;
+}
