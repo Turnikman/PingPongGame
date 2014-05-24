@@ -1,4 +1,4 @@
-![AForge.NET Framework](https://pp.vk.me/c608017/v608017480/5e30/DQsUUyZz1Ww.jpg)
+![Ping Pong](http://s1.hostingkartinok.com/uploads/images/2014/05/4a926ba55fe8c07bfcac34623f9eeccf.png)
 ===
 PingPongGame
 ============
